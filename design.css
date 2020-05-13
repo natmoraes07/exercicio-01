@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    background-color: rgb(163, 0, 0);
+    padding: 10px 0;
+}
+.banner{
+    padding: 20px 0;
+    background-color: rgb(245, 11, 11);
+    border-bottom: 17px solid rgb(163, 0, 0);
+}
+.txtbanner{
+    color: #ffffff;
+    text-align: center;
+    font-size: 50pt;
+}
+.txtbanner2{
+    color: #ffffff;
+    text-align: center;
+    font-size: 17pt;
+}
+.o-que-e{
+    display: block;
+    margin: 0 auto;
+}
+.sintomas{
+    display: block;
+    margin: 0 auto;
+}
+.previnir{
+    display: block;
+    margin: 0 auto;
+}
